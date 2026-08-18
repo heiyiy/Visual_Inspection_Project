@@ -1,2 +1,2 @@
-# -
+# Visual_Inspection_Project
 视觉检测课设及部分算法
